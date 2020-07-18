@@ -15,7 +15,8 @@ Get it
 - Eating noodles
 - Driving
 - Looking out
-- Giving Ungo sugar
+- Giving Ungo sugar - (press X to give)
+	- Ungo hangs to the side of the car
 
 #### Wibes
 - Coming from somewhere -- going somewhere

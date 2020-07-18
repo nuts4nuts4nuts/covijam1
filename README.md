@@ -33,6 +33,8 @@ Get it
 - Going from the middle of america
 - Going to a beach
 - 3 Locations: drive stop - drive stop - drive stop
+- Do I love the CAR or the parasite on the side (Ungo?)
+- H.U.E.: Huge Ungo Energy - What's Your HUE?
 
 ##### Stop 1: The Noodle Shop
 - Tampopo is there (aniume girls)
